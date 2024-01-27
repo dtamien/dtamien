@@ -1,5 +1,5 @@
 # Welcome to my GitHub! 👋
-## My name is Damien, I'm currently an AI R&D intern at Exxact Robotics
+My name is Damien, I'm currently an AI R&D intern at Exxact Robotics.
 
 * 🌍  I'm based in Epernay, France
 * 🚀  I'm currently working on [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
