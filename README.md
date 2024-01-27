@@ -2,7 +2,7 @@
 #### My name is Damien and I'm currently working as an AI R&D intern at Exxact Robotics 🤖🍇🍾🥂
 
 * 🌍  I'm based in Epernay, France
-* 🚀  I do [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
+* 🚀  I'm dealing with [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
 * 🧠  I'm learning PyTorch
 * ⚡  I intend to build the world's best AI-based spell checker
 * 🤝  I'm open to collaborating on anything!
