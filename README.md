@@ -1,4 +1,4 @@
-Hi 👋 My name is Damien
+Hi 👋 Welcome to my GitHub!
 =======================
 
 * 🌍  I'm based in Epernay, France
