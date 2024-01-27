@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 👋
+## Welcome to my GitHub! 👋
 #### My name is Damien, I'm currently an AI R&D intern at Exxact Robotics
 
 * 🌍  I'm based in Epernay, France
