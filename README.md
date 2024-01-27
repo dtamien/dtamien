@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Epernay, France
 * 🚀  I'm currently working on [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
 * 🧠  I'm learning PyTorch
+* ⚡  I plan to build an AI-based spellchecker
 * 🤝  I'm open to collaborating on anything!
-* ⚡  I plan to build the best AI-based spellchecker
 
 ### Skills
 
