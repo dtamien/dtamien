@@ -3,6 +3,8 @@
 * 🧠  I'm learning PyTorch
 * ⚡  I plan to build an AI-based spellchecker
 * 🤝  I'm open to collaborating on anything!
+* ✉️  You can contact me on Discord at [@dtamien]
+
 
 ### Skills
 
