@@ -1,4 +1,7 @@
-* 🌍  I'm based in Epernay, France
+Hi 👋 My name is Damien
+=======================
+
+*  🌍  I'm based in Epernay, France
 * 🚀  I'm currently working on [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
 * 🧠  I'm learning PyTorch
 * ⚡  I plan to build an AI-based spellchecker
