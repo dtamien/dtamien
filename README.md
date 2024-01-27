@@ -4,7 +4,7 @@ Hi 👋 My name is Damien
 *  🌍  I'm based in Epernay, France
 * ⚡  I intend to build the best AI-based spellchecker
 * 🚀  I'm currently working on [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
-* 🧠  I'm learning PyTorch
+* 🧠  I'm learning PyTorch and the mathematics behind neural networks
 * 🤝  I'm open to collaborating on anything!
 * ✉️  You can contact me on Discord at [@dtamien](https://discord.com/users/dtamien)
 
