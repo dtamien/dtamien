@@ -1,6 +1,9 @@
 Hi 👋 Welcome to my GitHub!
 =======================
 
+My name is Damien, and I'm currently an intern at Exxact Robbotics.
+-------------------------------------------------------------------
+
 * 🌍  I'm based in Epernay, France
 * 🚀  I'm currently working on [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
 * 🧠  I'm learning PyTorch
