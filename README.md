@@ -1,7 +1,7 @@
 Hi 👋 Welcome to my GitHub!
 =======================
 
-My name is Damien, and I'm currently an intern at Exxact Robbotics.
+My name is Damien, I'm currently an AI R&D intern at Exxact Robbotics
 -------------------------------------------------------------------
 
 * 🌍  I'm based in Epernay, France
