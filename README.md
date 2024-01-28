@@ -4,8 +4,8 @@
 * 🌍  I'm based in Epernay, France
 * 🚀  I'm dealing with [Neural Architecture Search (NAS)](http://www.iri.upc.edu/files/scidoc/2373-E-DNAS:-Differentiable-Neural-Architecture-Search-for-Embedded-Systems.pdf)
 * 🧠  I'm learning PyTorch
-* ⚡  I intend to build the world's best AI-based spell checker
-* 🤝  I'm open to collaborating on anything!
+* ⚡  I intend to build the world's best AI-based spell checker!
+* 🤝  I'm open to collaborating on anything
 * ✉️  You can contact me on Discord at [@dtamien](https://discord.com/users/dtamien)
 
 #### I've already worked with these technologies
